@@ -1,14 +1,16 @@
-# Flutter_Webtoon
+# webtoon
 
-Flutter를 익히기 위해 노마드 코더의 강의를 보고 클론코딩한 프로젝트 입니다.
-API를 이용해 웹툰의 정보들을 가져와서 출력하도록 되었습니다.
+A new Flutter project.
 
-## 오늘의 네이버 웹툰을 한눈에
+## Getting Started
 
-### 오늘의 웹툰 리스트를 보고 볼 수 있도록 제작되었다.
+This project is a starting point for a Flutter application.
 
-![화면 캡처 2023-04-07 014318](https://user-images.githubusercontent.com/79801565/230443255-d0bb73a8-c960-47ce-9a7c-37074197a629.png)
+A few resources to get you started if this is your first Flutter project:
 
-### 해당 웹툰을 누르면 간단한 소개와 회차가 나온다.
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-![화면 캡처 2023-04-07 014340 details](https://user-images.githubusercontent.com/79801565/230443378-63571757-f027-417c-81d0-02411348630b.png)
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
