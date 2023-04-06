@@ -1,16 +1,13 @@
-# webtoon
+# 오늘의 웹툰을 슬라이드로 편하게
+플러터를 익히기 위해 노마드코더의 플러터 강의를 클론코딩한 프로젝트 입니다.
 
-A new Flutter project.
+### 첫 화면
+- 화면을 보면 오늘의 웹툰들이 나열돼 있고 좌우 슬라이드로 넘길 수 있습니다.
 
-## Getting Started
+![화면 캡처 2023-04-07 014318](https://user-images.githubusercontent.com/79801565/230444458-78258681-58e3-440d-a2c8-1adf839889f4.png)
 
-This project is a starting point for a Flutter application.
+### 해당 웹툰에 들어갔을 때
+- 웹툰을 들어가면 간단한 웹툰의 내용과 회차들이 나열돼 있는것을 볼 수 있습니다.
+- 오른쪽 위에 하트를 눌러 즐겨찾기가 가능하도록 돼있습니다.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![화면 캡처 2023-04-07 014340 details](https://user-images.githubusercontent.com/79801565/230444602-30dcc7cf-f83f-4a08-bb9e-cc69b28ef284.png)
